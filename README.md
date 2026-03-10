@@ -1,5 +1,5 @@
-**Loan Approval Prediction Model** 
-**Project Overview**
+**Loan Approval Prediction Model**<br>
+**Project Overview**<br>
 Financial institutions receive thousands of loan applications, and manually reviewing them can be time-consuming and error-prone. This project builds a machine learning model to predict whether a loan application should be approved or rejected based on applicant information.
 
 The project demonstrates a complete data science workflow, including:
@@ -64,7 +64,7 @@ Train/Test split:
 - 80% Training Data
 - 20% Testing Data
 
-**Model Training**
+**3. Model Training**
 Three machine learning models were implemented:
 
 **1. Logistic Regression**
