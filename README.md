@@ -91,3 +91,15 @@ These metrics help measure how effectively the model predicts loan approval outc
 **Key Insight:**<br>
 Applicants with strong credit history have a significantly higher loan approval rate.
 
+## How to Run This Project
+
+1. Clone the repository
+git clone https://github.com/yourusername/loan-approval-prediction.git
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run the application
+python app.py
+
+<img width="425" height="574" alt="image" src="https://github.com/user-attachments/assets/442b6241-b20f-4519-ad10-d528a94bd178" />
